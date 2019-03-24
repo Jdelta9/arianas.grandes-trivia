@@ -1,0 +1,51 @@
+h1{
+ font-family: 'Lobster', cursive;
+ background-color: lightblue;
+}
+h2 {
+  background-color:lightpink;   
+  font-family: 'Lobster', cursive; 
+  align-content: center; 
+  font-size:25px;  
+}
+h3 {
+    font-family: 'Lobster', cursive; 
+    background-color: lightblue;
+
+}
+body {   
+   font-family: 'Lobster', cursive;  
+   font-size:20px;
+   text-shadow: 4px 4px 4px #aaa;
+   background: url("Ariana-Grande-No-Tears-Left-To-Cry-packshot-cropped-web-optimised-1000.jpg");
+
+}
+button {
+    font-family: 'Lobster', cursive;
+    min-width: 300px;
+    padding: 18px 28px;
+    font-size: 22px; 
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.start{
+    font-family: 'Lobster', cursive;
+    align-content: center;
+}
+
+.question{
+    font-family: 'Lobster', cursive;
+    margin: 10px;
+}
+
+.timeText, .display, .question{
+    font-size: x-large;
+}
+
+.score{
+    font-weight: bold;
+}
